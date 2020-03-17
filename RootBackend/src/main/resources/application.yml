@@ -1,0 +1,9 @@
+app:
+  name: OpenHere
+  version: 1.0
+spring:
+  data:
+    mongodb:
+      uri: mongodb://adminRoot:Open3045Here@165.227.92.118:28591/?authSource=admin&readPreference=primary&appname=MongoDB%20Compass%20Community&ssl=false
+      database: OpenHere
+
